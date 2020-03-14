@@ -1,0 +1,811 @@
+﻿Log file open, 03/14/20 16:35:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Motors_P1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075305
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Launchers/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.14-15.35.00:462][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.14-15.35.00:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:463][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.14-15.35.00:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.14-15.35.00:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.14-15.35.00:468][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.14-15.35.00:468][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.14-15.35.00:471][  0]LogHAL: Display: Platform has ~ 16 GB [17128558592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.14-15.35.00:471][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.14-15.35.00:471][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.14-15.35.00:471][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.14-15.35.00:472][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.14-15.35.00:473][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.14-15.35.00:473][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.14-15.35.00:473][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Config/Windows/Engine.ini]
+[2020.03.14-15.35.00:473][  0]LogInit: Computer: DESKTOP-P0PN2CK
+[2020.03.14-15.35.00:473][  0]LogInit: User: Uri
+[2020.03.14-15.35.00:473][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.14-15.35.00:473][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.14-15.35.00:473][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.14-15.35.00:473][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.14-15.35.00:473][  0]LogMemory: Process Physical Memory: 106.33 MB used, 106.34 MB peak
+[2020.03.14-15.35.00:473][  0]LogMemory: Process Virtual Memory: 101.69 MB used, 101.69 MB peak
+[2020.03.14-15.35.00:473][  0]LogMemory: Physical Memory: 7248.34 MB used,  9086.73 MB free, 16335.07 MB total
+[2020.03.14-15.35.00:473][  0]LogMemory: Virtual Memory: 5174.29 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.03.14-15.35.00:475][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.14-15.35.00:491][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.14-15.35.00:491][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.14-15.35.00:665][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.14-15.35.01:252][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.14-15.35.01:252][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.14-15.35.01:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.14-15.35.01:382][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.14-15.35.01:382][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.14-15.35.01:382][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.14-15.35.01:447][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.03.14-15.35.01:448][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.14-15.35.01:449][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.14-15.35.01:449][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.14-15.35.01:449][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.14-15.35.01:458][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.14-15.35.01:458][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.14-15.35.01:458][  0]LogWindows: EnumDisplayDevices:
+[2020.03.14-15.35.01:458][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.03.14-15.35.01:458][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.03.14-15.35.01:458][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.03.14-15.35.01:458][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.03.14-15.35.01:459][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.14-15.35.01:459][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.03.14-15.35.01:459][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.03.14-15.35.01:459][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.03.14-15.35.01:459][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.14-15.35.01:512][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.14-15.35.01:512][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.14-15.35.01:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.14-15.35.01:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.14-15.35.01:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.14-15.35.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.14-15.35.01:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.14-15.35.01:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.14-15.35.01:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.14-15.35.01:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.14-15.35.01:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.14-15.35.01:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.14-15.35.01:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.14-15.35.01:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.14-15.35.01:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.14-15.35.01:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.14-15.35.01:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.14-15.35.01:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.14-15.35.01:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.14-15.35.01:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.14-15.35.01:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.14-15.35.01:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.14-15.35.01:944][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.14-15.35.01:946][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.14-15.35.01:961][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Intermediate/Shaders/WorkingDirectory/12152/).
+[2020.03.14-15.35.01:961][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Uri/AppData/Local/Temp/UnrealShaderWorkingDir/D666B3874A459E92E5C6BA8F294962DA/'.
+[2020.03.14-15.35.01:961][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.14-15.35.01:961][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.14-15.35.01:961][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.14-15.35.02:664][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.14-15.35.02:719][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Uri/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.14-15.35.02:719][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Uri/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.14-15.35.02:720][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.14-15.35.02:720][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.14-15.35.02:720][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.14-15.35.02:720][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.14-15.35.02:730][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.14-15.35.02:731][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.14-15.35.02:731][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.14-15.35.02:732][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Uri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.14-15.35.02:732][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.14-15.35.02:732][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.14-15.35.02:758][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.14-15.35.02:761][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.14-15.35.02:761][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.14-15.35.02:810][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.03.14-15.35.03:105][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.14-15.35.03:255][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.14-15.35.03:255][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.14-15.35.03:255][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.14-15.35.03:255][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.14-15.35.03:255][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.14-15.35.03:269][  0]LogNetVersion: Motors_P1 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 123850609)
+[2020.03.14-15.35.04:478][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.222146 seconds
+[2020.03.14-15.35.04:487][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.14-15.35.04:487][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.14-15.35.04:487][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.14-15.35.04:928][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.14-15.35.04:931][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.14-15.35.04:980][  0]SourceControl: Source control is disabled
+[2020.03.14-15.35.04:980][  0]SourceControl: Source control is disabled
+[2020.03.14-15.35.04:981][  0]SourceControl: Source control is disabled
+[2020.03.14-15.35.04:981][  0]SourceControl: Source control is disabled
+[2020.03.14-15.35.04:982][  0]SourceControl: Source control is disabled
+[2020.03.14-15.35.05:093][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.14-15.35.05:104][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.14-15.35.05:104][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.14-15.35.05:191][  0]LogOcInput: OculusInput pre-init called
+[2020.03.14-15.35.05:197][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.14-15.35.05:197][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.14-15.35.05:269][  0]LogEngine: Initializing Engine...
+[2020.03.14-15.35.05:270][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.14-15.35.05:271][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.14-15.35.05:621][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.14-15.35.05:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.14-15.35.05:640][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.14-15.35.05:640][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.14-15.35.05:640][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Name: Auriculares (CORSAIR HS60 PRO SURROUND)
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.14-15.35.05:664][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.14-15.35.05:818][  0]LogAudioMixer: Display: Using Audio Device Auriculares (CORSAIR HS60 PRO SURROUND)
+[2020.03.14-15.35.05:823][  0]LogInit: FAudioDevice initialized.
+[2020.03.14-15.35.05:823][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.14-15.35.05:931][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Uri/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.14-15.35.05:941][  0]LogInit: Texture streaming: Enabled
+[2020.03.14-15.35.05:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.14-15.35.05:950][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.14-15.35.05:951][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.14-15.35.06:038][  0]LogInit: Transaction tracking system initialized
+[2020.03.14-15.35.06:080][  0]BlueprintLog: New page: Editor Load
+[2020.03.14-15.35.06:106][  0]LocalizationService: Localization service is disabled
+[2020.03.14-15.35.06:510][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.14-15.35.06:510][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.14-15.35.06:580][  0]LogFileCache: Scanning file cache for directory 'F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/' took 0.02s
+[2020.03.14-15.35.07:117][  0]SourceControl: Source control is disabled
+[2020.03.14-15.35.07:117][  0]Cmd: MAP LOAD FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.14-15.35.07:144][  0]LightingResults: New page: Lighting Build
+[2020.03.14-15.35.07:144][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.14-15.35.07:144][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.14-15.35.07:144][  0]MapCheck: New page: Map Check
+[2020.03.14-15.35.07:144][  0]LightingResults: New page: Lighting Build
+[2020.03.14-15.35.07:179][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.14-15.35.07:822][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.14-15.35.07:823][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.14-15.35.07:859][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.14-15.35.07:859][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.14-15.35.07:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2020.03.14-15.35.07:859][  0]LogFileHelpers: Loading map 'MainMenu' took 0.742
+[2020.03.14-15.35.09:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-15.35.09:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-15.35.09:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-15.35.09:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-15.35.10:033][  0]LogCollectionManager: Loaded 0 collections in 0.000868 seconds
+[2020.03.14-15.35.10:785][  0]LogFileCache: Scanning file cache for directory 'F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Collections/' took 0.00s
+[2020.03.14-15.35.10:785][  0]LogFileCache: Scanning file cache for directory 'F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Developers/Uri/Collections/' took 0.00s
+[2020.03.14-15.35.10:785][  0]LogFileCache: Scanning file cache for directory 'F:/Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Collections/' took 0.00s
+[2020.03.14-15.35.10:785][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3015 classes and 717 folders.
+[2020.03.14-15.35.11:095][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.14-15.35.14:942][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.14-15.35.15:095][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.14-15.35.18:825][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.14-15.35.18:827][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.14-15.35.19:100][  0]LogSlate: Took 0.212478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.14-15.35.20:021][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.14-15.35.20:728][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.14-15.35.20:728][  0]LogLoad: (Engine Initialization) Total time: 23.37 seconds
+[2020.03.14-15.35.20:728][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.14-15.35.20:788][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.14-15.35.21:321][  0]LogSlate: Took 0.142306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.14-15.35.27:572][ 59]LogAssetRegistry: Asset discovery search completed in 24.7632 seconds
+[2020.03.14-15.35.27:575][ 59]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2020.03.14-15.37.28:992][329]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.14-15.37.34:870][329]LogSlate: Took 0.038089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.14-15.37.34:889][329]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-15.37.49:208][ 15]LogSlate: Window 'Sequencer' being destroyed
+[2020.03.14-15.39.18:346][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.14-15.39.20:408][639]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.14-15.39.21:085][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.14-15.39.37:920][514]LogContentBrowser: Verbose: The majority of assets in the view are of type: LevelSequence
+[2020.03.14-15.39.40:661][766]LogSlate: Window 'Asset Audit' being destroyed
+[2020.03.14-15.39.40:665][766]LogSlate: Window 'Asset Audit' being destroyed
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48E4A7E4-4F2D-7D01-31EE-0EB8FD342C7B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=82ada4a24c1670e9fc774b8a2baae422%7Cfe5c0c4480444b0bb5c86f1c0fafcbcb%7Cdabf6643-af10-4ed5-a816-4895c4ba15d3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: request failed, libcurl error: 0 (No error)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x169c07f7f70 [can pipeline])
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.228.241.16) port 443 (#2))
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 7 (Closing connection 2)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: 000001698851BC40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.14-15.41.20:848][554]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48E4A7E4-4F2D-7D01-31EE-0EB8FD342C7B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=82ada4a24c1670e9fc774b8a2baae422%7Cfe5c0c4480444b0bb5c86f1c0fafcbcb%7Cdabf6643-af10-4ed5-a816-4895c4ba15d3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.14-15.41.25:756][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Sequence1" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset" SILENT=true
+[2020.03.14-15.41.26:021][113]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Sequence16C70FC7949E50B3D767E85AF527BFA94.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset'
+[2020.03.14-15.41.26:070][113]AssetCheck: New page: Asset Save: Sequence1
+[2020.03.14-15.41.26:070][113]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-15.41.48:383][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Sequence1" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset" SILENT=true
+[2020.03.14-15.41.48:589][773]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Sequence199806E1A4BDDEC76F11586BFA401B2AD.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset'
+[2020.03.14-15.41.48:599][773]AssetCheck: New page: Asset Save: Sequence1
+[2020.03.14-15.41.48:599][773]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-15.41.50:310][977]Cmd: DELETE
+[2020.03.14-15.41.50:330][977]Cmd: ACTOR DELETE
+[2020.03.14-15.41.50:805][977]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2020.03.14-15.41.50:869][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.14-15.41.50:881][977]LogEditorActor: Deleted 1 Actors (0.182 secs)
+[2020.03.14-15.42.07:435][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.07:436][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.09:320][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.09:320][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.09:390][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.09:390][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.09:390][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.09:390][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.10:725][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.10:756][136]LoadErrors: Failed to load /Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData.Main_Warehouse_01_BuiltData Referenced by PersistentLevel
+[2020.03.14-15.42.10:756][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_BuiltData': Can't find file.
+[2020.03.14-15.42.13:316][136]LogAIModule: Creating AISystem for world Main_Warehouse_01
+[2020.03.14-15.42.14:248][136]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.Main_Warehouse_01
+[2020.03.14-15.42.14:467][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.03.14-15.42.19:471][136]LogSlate: Window 'Save Content' being destroyed
+[2020.03.14-15.42.19:475][136]LightingResults: New page: Lighting Build
+[2020.03.14-15.42.19:500][136]LoadErrors: New page: Loading map: Main_Warehouse_01.umap
+[2020.03.14-15.42.19:776][136]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.14-15.42.19:776][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.14-15.42.19:776][136]MapCheck: New page: Map Check
+[2020.03.14-15.42.19:776][136]LightingResults: New page: Lighting Build
+[2020.03.14-15.42.19:909][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.03.14-15.42.20:377][136]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment) is flushing async loading
+[2020.03.14-15.42.20:378][136]LogStreaming: Display: Flushing async loaders.
+[2020.03.14-15.42.20:736][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.20:736][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:187][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:187][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:208][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:208][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:208][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:208][136]LogLinker: Warning: Failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:294][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.28:294][136]LoadErrors: Failed to load /Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData.Warehouse_01_environment_BuiltData Referenced by PersistentLevel
+[2020.03.14-15.42.28:294][136]LogLinker: Warning: While loading '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment.umap' failed to load '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_environment_BuiltData': Can't find file.
+[2020.03.14-15.42.36:658][136]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_lightDay) is flushing async loading
+[2020.03.14-15.42.37:272][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.14-15.42.37:564][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.14-15.42.37:598][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.14-15.42.37:599][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.475ms to complete.
+[2020.03.14-15.42.37:599][136]LogFileHelpers: Loading map 'Main_Warehouse_01' took 18.125
+[2020.03.14-15.43.12:273][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.03.14-15.43.13:518][663]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.14-15.43.13:642][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.03.14-15.43.13:684][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.03.14-15.43.13:718][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.03.14-15.43.34:581][ 18]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.14-15.43.34:653][ 18]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-15.45.01:794][823]Cmd: TRANSACTION UNDO
+[2020.03.14-15.45.01:816][823]LogEditorTransaction: Undo Add Marked Frame
+[2020.03.14-15.46.04:394][584]Cmd: TRANSACTION UNDO
+[2020.03.14-15.46.04:394][584]LogEditorTransaction: Undo Set Key Value
+[2020.03.14-15.46.27:042][116]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.46.29:397][254]LogSlate: Took 0.017913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.14-15.46.43:718][136]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.46.46:528][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.14-15.47.17:808][184]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.47.38:525][418]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.47.49:988][202]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.47.56:776][643]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.48.55:647][175]Cmd: TRANSACTION UNDO
+[2020.03.14-15.48.55:647][175]LogEditorTransaction: Undo Edit Intensity Scale
+[2020.03.14-15.48.56:070][185]Cmd: TRANSACTION UNDO
+[2020.03.14-15.48.56:070][185]LogEditorTransaction: Undo Edit Intensity Scale
+[2020.03.14-15.48.56:460][202]Cmd: TRANSACTION UNDO
+[2020.03.14-15.48.56:460][202]LogEditorTransaction: Undo Edit Intensity Scale
+[2020.03.14-15.49.26:133][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.03.14-15.49.27:031][718]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.03.14-15.49.49:719][527]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.50.31:268][145]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.51.29:044][241]Cmd: TRANSACTION UNDO
+[2020.03.14-15.51.29:044][241]LogEditorTransaction: Undo Select Actors/Components
+[2020.03.14-15.51.29:475][253]Cmd: TRANSACTION UNDO
+[2020.03.14-15.51.29:475][253]LogEditorTransaction: Undo Select None
+[2020.03.14-15.51.30:076][290]Cmd: TRANSACTION UNDO
+[2020.03.14-15.51.30:076][290]LogEditorTransaction: Undo Set Key
+[2020.03.14-15.51.31:379][370]Cmd: TRANSACTION UNDO
+[2020.03.14-15.51.31:379][370]LogEditorTransaction: Undo Select Actors/Components
+[2020.03.14-15.51.38:359][806]Cmd: TRANSACTION REDO
+[2020.03.14-15.51.38:359][806]LogEditorTransaction: Redo Select Actors/Components
+[2020.03.14-15.53.27:945][454]LogEditorViewport: Clicking Background
+[2020.03.14-15.53.28:662][524]LogEditorViewport: Clicking Background
+[2020.03.14-15.55.14:953][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.03.14-15.55.15:880][739]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.14-15.55.18:049][739]LogSlate: Took 0.025265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.14-15.55.20:473][894]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2020.03.14-15.55.46:990][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Sequence1" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset" SILENT=true
+[2020.03.14-15.55.46:999][843]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Sequence1BA27DB334C787C5C26B46CBA59F0BC3E.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset'
+[2020.03.14-15.55.47:016][843]AssetCheck: New page: Asset Save: Sequence1
+[2020.03.14-15.55.47:016][843]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-15.55.53:661][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.14-15.55.54:617][381]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Main_Warehouse_017E938089494084D633EF799E9697CA4F.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap'
+[2020.03.14-15.55.54:675][381]LogFileHelpers: Saving map 'Main_Warehouse_01' took 1.136
+[2020.03.14-15.55.54:719][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.03.14-15.55.54:752][381]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Warehouse_01_lightDay56097893429E6600A7DDE9A66DECF388.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_lightDay.umap'
+[2020.03.14-15.55.54:754][381]LogFileHelpers: Saving map 'Warehouse_01_lightDay' took 0.079
+[2020.03.14-15.55.54:784][381]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.14-15.55.54:784][381]LogContentValidation: Display: Validating World /Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.Main_Warehouse_01
+[2020.03.14-15.55.54:784][381]LogContentValidation: Display: Validating World /Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_lightDay.Warehouse_01_lightDay
+[2020.03.14-15.56.04:229][998]Cmd: TRANSACTION UNDO
+[2020.03.14-15.56.04:229][998]LogEditorTransaction: Undo Reset to Default
+[2020.03.14-15.56.10:882][440]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.56.15:916][831]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.56.24:031][480]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.56.33:165][200]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.14-15.56.33:497][222]Cmd: TRANSACTION UNDO
+[2020.03.14-15.56.33:497][222]LogEditorTransaction: Undo Edit Overall Color
+[2020.03.14-15.56.33:958][234]Cmd: TRANSACTION UNDO
+[2020.03.14-15.56.33:958][234]LogEditorTransaction: Undo Edit Cloud Color
+[2020.03.14-15.56.34:379][261]Cmd: TRANSACTION UNDO
+[2020.03.14-15.56.34:379][261]LogEditorTransaction: Undo Edit Horizon Color
+[2020.03.14-15.56.34:829][290]Cmd: TRANSACTION UNDO
+[2020.03.14-15.56.34:829][290]LogEditorTransaction: Undo Edit Zenith Color
+[2020.03.14-15.57.00:051][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2020.03.14-15.57.00:204][848]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/BP_Sky_Sphere8757F0CA41903BBC333AF28CE7A3C3AA.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2020.03.14-15.57.00:222][848]AssetCheck: New page: Asset Save: BP_Sky_Sphere
+[2020.03.14-15.57.00:222][848]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.03.14-15.57.17:124][391]Cmd: TRANSACTION UNDO
+[2020.03.14-15.57.17:124][391]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.14-15.57.17:636][405]Cmd: TRANSACTION UNDO
+[2020.03.14-15.57.17:636][405]LogEditorTransaction: Undo Add Transform Track
+[2020.03.14-15.57.27:586][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2020.03.14-15.57.27:676][431]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/BP_Sky_Sphere0F76428E496909449CEBF6B18FA3C569.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2020.03.14-15.57.27:689][431]AssetCheck: New page: Asset Save: BP_Sky_Sphere
+[2020.03.14-15.57.27:689][431]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.03.14-15.57.29:001][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2020.03.14-15.57.29:096][577]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/BP_Sky_Sphere6FE6324B4DC9B5FEE9B437B30A1862AA.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2020.03.14-15.57.29:109][577]AssetCheck: New page: Asset Save: BP_Sky_Sphere
+[2020.03.14-15.57.29:110][577]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.03.14-15.57.30:458][723]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.14-15.57.30:458][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.14-15.57.44:007][454]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.03.14-15.57.44:782][454]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Main_Warehouse_01281C0B144A65D16D22867CAD0FFFA0FB.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.umap'
+[2020.03.14-15.57.44:828][454]AssetCheck: New page: Asset Save: Main_Warehouse_01
+[2020.03.14-15.57.44:828][454]LogContentValidation: Display: Validating World /Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01.Main_Warehouse_01
+[2020.03.14-15.57.56:612][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Sequence1" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset" SILENT=true
+[2020.03.14-15.57.56:657][180]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Sequence1276B04874FA57981215573A6A252046E.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset'
+[2020.03.14-15.57.56:669][180]AssetCheck: New page: Asset Save: Sequence1
+[2020.03.14-15.57.56:669][180]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-15.58.40:332][736]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC.NPC
+[2020.03.14-16.01.29:498][489]LogSlate: Took 0.017060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.14-16.03.30:636][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AI/NPC.uasset" SILENT=true
+[2020.03.14-16.03.30:709][543]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/NPC5D58A44D4316EB375240258466B8E48D.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/AI/NPC.uasset'
+[2020.03.14-16.03.30:722][543]AssetCheck: New page: Asset Save: NPC
+[2020.03.14-16.03.30:722][543]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC.NPC
+[2020.03.14-16.03.32:432][743]BlueprintLog: New page: Compile NPC
+[2020.03.14-16.03.32:445][743]LogBlueprint: Error: [Compiler NPC] This blueprint (self) is not a DatasmithImportedSequencesActor, therefore ' Target ' must have a connection.
+[2020.03.14-16.03.32:847][743]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.03.14-16.05.54:050][647]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.03.14-16.05.54:947][647]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Main_Warehouse_01_Auto10790DB9B4C1E327DCBDF9FA6FBE50EB1.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Autosaves/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01_Auto1.umap'
+[2020.03.14-16.05.55:003][647]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Warehouse_01_lightDay_Auto1BD56E36B48DB0D39A33ABC9C6CF3A16C.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Autosaves/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Warehouse_01_lightDay_Auto1.umap'
+[2020.03.14-16.05.55:003][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AbandonedFactory/Maps/Warehouse_01_dayIndoors/Main_Warehouse_01' took 0.998
+[2020.03.14-16.05.55:003][647]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.998
+[2020.03.14-16.05.55:004][647]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/NPC] ([1] browsable assets)...
+[2020.03.14-16.05.55:014][647]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/NPC.NPC]
+[2020.03.14-16.05.55:014][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC]
+[2020.03.14-16.05.55:014][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Autosaves/Game/AI/NPC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.14-16.05.55:075][647]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/NPC_Auto12590392844F2DFA1FC04869CA99300E0.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Autosaves/Game/AI/NPC_Auto1.uasset'
+[2020.03.14-16.05.55:089][647]LogFileHelpers: Auto-saving content packages took 0.086
+[2020.03.14-16.09.41:122][379]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.03.14-16.09.56:638][379]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.14-16.09.57:879][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Sequence1" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset" SILENT=true
+[2020.03.14-16.09.57:915][454]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Sequence12F59D19944C28C382C52DBB4708A2BDB.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset'
+[2020.03.14-16.09.57:927][454]AssetCheck: New page: Asset Save: Sequence1
+[2020.03.14-16.09.57:927][454]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-16.10.00:283][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Sequence1" FILE="../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset" SILENT=true
+[2020.03.14-16.10.00:320][605]LogSavePackage: Moving '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Saved/Sequence1C24463804A9D75CC2137F7962B835834.tmp' to '../../../../../../Docs/Uni/3r/Motors/GitHubPractica/PracticaMotors/Motors_P1/Content/Sequences/Sequence1.uasset'
+[2020.03.14-16.10.00:331][605]AssetCheck: New page: Asset Save: Sequence1
+[2020.03.14-16.10.00:331][605]LogContentValidation: Display: Validating LevelSequence /Game/Sequences/Sequence1.Sequence1
+[2020.03.14-16.10.08:347][874]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.14-16.10.14:865][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sequences/ActorSequence.ActorSequence
